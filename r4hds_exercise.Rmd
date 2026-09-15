@@ -4,7 +4,7 @@ subtitle: "R for Health data Science---Exercises"
 author: "Mark Hanly"
 output: github_document
 ---
-
+ddd
 ```{r setup, include=FALSE}
 # Load libraries
 library(knitr)
